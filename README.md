@@ -1,7 +1,8 @@
 # JiraBlock
 This standard building block can be used to showcase that Thingworx can connect to a Jira server to get the available project list, retrieve the tasks (tickets) for that project and perform basic CRUD operations on these. It also demonstrates how to write the code necessary to parse any custom fields included by the Jira administrator. 
 
-Disclaimer
+
+# Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
 
 Users accept all risk whatsoever regarding the security of the code they download.
@@ -20,7 +21,7 @@ The author shared the code that worked at a specific moment in time using specif
 
 The author has not committed to maintain this code and he may not be bound to maintain or fix it.
 
-License
+# License
 I accept the MIT License (https://opensource.org/licenses/MIT) and agree that any software downloaded/utilized will be in compliance with that Agreement. However, despite anything to the contrary in the License Agreement, I agree as follows:
 
 I acknowledge that I am not entitled to support assistance with respect to the software, and PTC will have no obligation to maintain the software or provide bug fixes or security patches or new releases.
