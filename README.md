@@ -1,4 +1,4 @@
-# JiraBlock
+# PTCSC.JiraIntegration
 This standard building block can be used to showcase that Thingworx can connect to a Jira server to get the available project list, retrieve the tasks (tickets) for that project and perform basic CRUD operations on these. It also demonstrates how to write the code necessary to parse any custom fields included by the Jira administrator. 
 
 
